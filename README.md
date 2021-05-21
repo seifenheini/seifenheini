@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @seifenheini
 - 👀 I’m interested in Skateboarding, Streaming, and developing
 - 🌱 I’m currently learning Game Development and the How-To in Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: seifenheini#8827
 
 <!---
